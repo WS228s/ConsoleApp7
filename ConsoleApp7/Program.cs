@@ -13,6 +13,7 @@ namespace ConsoleApp7
             
             Console.WriteLine("Привет мир");
             Console.WriteLine("Домашка");
+            Console.WriteLine("Лаба 15");
         }
     }
 }
